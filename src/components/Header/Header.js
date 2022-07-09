@@ -15,7 +15,7 @@ const Header = () => {
                     <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
-                    <div className="navbar-nav ms-auto text-center fs-5 text-dark fw-bolder">
+                    <div className="navbar-nav ms-auto text-center fs-6 text-dark fw-bolder">
                         <Link className="nav-link" to="/home" aria-current="page">HOME</Link>
                         <Link className="nav-link" to="/review">REVIEWS</Link>
                         <Link className="nav-link" to="/dashboard">DASHBOARD</Link>
