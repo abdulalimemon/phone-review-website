@@ -1,0 +1,11 @@
+.picture {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.star-icon{
+    width: 34px;
+    height: 34px;
+    color: rgb(192, 78, 12);
+}
