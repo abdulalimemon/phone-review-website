@@ -19,7 +19,7 @@ const Home = () => {
                 </div>
             </div>
             <div className="row py-5">
-                <div className="col-md-6">
+                <div className="col-md-12">
                     <h2>Customer Reviews()</h2>
                 </div>
             </div>
