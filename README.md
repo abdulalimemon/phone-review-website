@@ -1,6 +1,6 @@
 # Getting Started with Phone Review Website
 
-## This project was about [Phone Review Website](https://p-7.netlify.app/).
+## Project Link [Phone Review Website](https://p-7.netlify.app/).
 
 * This Website about phone reviews.
 * This Website Build With CSS Framework Bootstrap and JavaScript Library React.
